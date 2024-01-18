@@ -20,12 +20,12 @@ sudo pacman -Sy base-devel libx11 libxtst
 
 ### 1. Download:
 ```
-git clone https://github.com/arturzxc/grinder.git
+git clone https://github.com/rummer999/Grin1.git
 ```
 
 ### 2. Get inside the folder
 ```
-cd grinder
+cd Grin1
 ```
 
 ### 3. Compile the program (The below is a single word command that you need to type into terminal and hit Enter):
